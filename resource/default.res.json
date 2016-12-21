@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,hero_0_jpg,weapon_0_jpg,jewel_0_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "hero_0_jpg",
+			"type": "image",
+			"url": "assets/hero_0.jpg"
+		},
+		{
+			"name": "weapon_0_jpg",
+			"type": "image",
+			"url": "assets/weapon_0.jpg"
+		},
+		{
+			"name": "jewel_0_jpg",
+			"type": "image",
+			"url": "assets/jewel_0.jpg"
+		}
+	]
+}
